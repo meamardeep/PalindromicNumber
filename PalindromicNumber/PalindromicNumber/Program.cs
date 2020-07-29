@@ -19,7 +19,7 @@ namespace PalindromicNumber
 
             if (reverseNumber == number)
             {
-                Console.WriteLine("Entered Number is palindrome");
+                Console.WriteLine("Given Number is palindrome");
             }
             else
                 Console.WriteLine("Entered number is not palindrome");
