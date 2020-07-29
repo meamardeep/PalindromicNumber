@@ -7,7 +7,7 @@ namespace PalindromicNumber
         static void Main(string[] args)
         {
             long number;
-            Console.WriteLine("Enter a nnumber to check whether its palindome or not");
+            Console.WriteLine("Enter a number to check whether its palindome or not");
             number = long.Parse(Console.ReadLine());
             long reverseNumber = 0;
 
